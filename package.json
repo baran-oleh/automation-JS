@@ -1,5 +1,8 @@
 {
   "devDependencies": {
     "fs-extra": "^10.0.1"
+  },
+  "dependencies": {
+    "jshint": "^2.13.4"
   }
 }
